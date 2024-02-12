@@ -21,19 +21,29 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
+      "page": 1,
+      "title": "Produto em Destaque ⭐",
       "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
       "headless": false,
+      "type": "collection-shelf",
+      "link": "",
       "limit": 12,
-      "page": 1
+      "collection_id": null,
+      "sort": "views"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65ca255a87ab487fbfb3e1d0:categories:Tv e Vídeo:/tv-e-video"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65c990e087ab487fbfb3a25d:categories:Antenas:/antenas-para-receptor"
     }
   ]
 }
