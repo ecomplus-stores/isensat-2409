@@ -8,19 +8,19 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/isensat",
-  "logo": "/img/uploads/isensat-2-.png",
+  "logo": "/img/uploads/isensat-4-.png",
   "name": "Isensat",
   "short_name": "isensat",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/isensat-6-.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/isensat-6-.png",
   "store_id": 51499,
   "description": "isensat",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/isensat-4-.png"
 }
