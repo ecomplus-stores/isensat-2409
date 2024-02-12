@@ -4,7 +4,7 @@
     "random": 6,
     "full_width": true
   },
-  "menu_all_departments": false,
+  "menu_all_departments": true,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Pagamentos via Cartão de Crédito Avista, PIX ou Boleto Bancário! ⛔ Não Vendemos Parcelado!",
@@ -12,7 +12,7 @@
     "background": ""
   },
   "alphabetical_order_submenu": false,
-  "name_all_departments": "",
+  "name_all_departments": "TODOS OS PRODUTOS",
   "search_input": true,
   "desktop_megamenu": false,
   "full_width_submenu": true,
