@@ -23,8 +23,8 @@
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Atendimento",
+        "link": "https://isensat-2409.netlify.app/pages/contato"
       }
     ],
     "phone_wpp": true,
