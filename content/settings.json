@@ -9,8 +9,8 @@
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/isensat",
   "logo": "/img/uploads/isensat-4-.png",
-  "name": "Isensat",
-  "short_name": "isensat",
+  "name": "Isensat | Loja Oficial",
+  "short_name": "Isensat",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#393e46",
   "icon": "/img/uploads/isensat-6-.png",
   "store_id": 51499,
-  "description": "isensat",
+  "description": "Explore nosso catálogo completo de acessórios essenciais para instaladores de antena. Na nossa loja virtual, você encontra tudo o que precisa, desde conectores de alta qualidade até ferramentas especializadas. Oferecemos soluções eficientes a preços competitivos, garantindo que você tenha à disposição os melhores recursos para cada instalação. Facilite seu trabalho, economize tempo e assegure resultados de excelência com nossos produtos. Seu sucesso na instalação de antenas começa aqui!",
   "large_icon": "/img/uploads/isensat-4-.png"
 }
