@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
+    "bootswatch": "cerulean",
     "custom": "_"
   },
   "bg_color": "#ffffff",
@@ -14,13 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "font_family": "_",
+  "font_family": "Ubuntu",
   "favicon": "/img/uploads/isensat-6-.png",
-  "icons_font": "_",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/isensat-6-.png",
   "store_id": 51499,
-  "description": "Explore nosso catálogo completo de acessórios essenciais para instaladores de antena. Na nossa loja virtual, você encontra tudo o que precisa, desde conectores de alta qualidade até ferramentas especializadas. Oferecemos soluções eficientes a preços competitivos, garantindo que você tenha à disposição os melhores recursos para cada instalação. Facilite seu trabalho, economize tempo e assegure resultados de excelência com nossos produtos. Seu sucesso na instalação de antenas começa aqui!",
+  "description": "Explore nosso catálogo completo de acessórios essenciais para instaladores de antena. Na nossa loja virtual, você encontra tudo o que precisa, desde conectores de alta qualidade até ferramentas especializadas. Oferecemos soluções eficientes a preços competitivos, garantindo que você tenha à disposição os melhores recursos para cada instalação.",
   "large_icon": "/img/uploads/isensat-4-.png"
 }
