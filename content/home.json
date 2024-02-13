@@ -25,11 +25,6 @@
       ]
     },
     {
-      "type": "brands-carousel",
-      "limit": 24,
-      "offset": 0
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
@@ -43,6 +38,11 @@
       "limit": 12,
       "collection_id": null,
       "sort": "views"
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0
     },
     {
       "type": "collection-shelf",
