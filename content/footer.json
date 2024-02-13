@@ -33,7 +33,7 @@
     "visa": true,
     "mastercard": true,
     "elo": true,
-    "amex": true,
+    "amex": false,
     "hipercard": true,
     "boleto": true,
     "paypal": true
