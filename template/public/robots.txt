@@ -1,8 +1,26 @@
 User-agent: *
-Allow: /
-Disallow: /app/
-Disallow: /search$
-Disallow: /search?
-Disallow: /search.html$
-Disallow: /search.html?
+Allow:
+Disallow: /checkout
+Disallow: /cart
+
+User-agent: Googlebot
+Allow:
+Disallow: /checkout
+Disallow: /cart
+
+User-agent: Googlebot-Image
+Allow:
+Disallow: /checkout
+Disallow: /cart
+
+User-agent: Mediapartners-Google
+Allow:
+Disallow: /checkout
+Disallow: /cart
+
+User-agent: Adsbot-Google
+Allow:
+Disallow: /checkout
+Disallow: /cart
+
 Disallow: /admin/
