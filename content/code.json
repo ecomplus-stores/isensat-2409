@@ -1,5 +1,5 @@
 {
-  "css": "@media(min-width: 767px) {\n  #logo {\n    max-height: 120px !important;\n  } \n}  \n  .footer {\n background: #000;\n}\n\n.footer > p, a, i, h2, address {\n    color: #fff;\n}\n\n.footer__title, .footer__credits {\n    color: #fff\n}",
+  "css": "@media(min-width: 767px) {\n  #logo {\n    max-height: 120px !important;\n  } \n}  \n  .footer {\n background: #000;\n}\n\n.footer p, .footer a, .footer i, .footer h2, .footer address {\n    color: #fff;\n}\n\n.footer__title, .footer__credits {\n    color: #fff\n}",
   "html_head": "",
   "html_body": ""
 }
