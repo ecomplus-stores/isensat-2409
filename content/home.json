@@ -8,6 +8,11 @@
       "full_width": true,
       "slides": [
         {
+          "start": "2024-02-24T01:37:11.187Z",
+          "end": "",
+          "img": "/img/uploads/welcome-little-one-2-.png"
+        },
+        {
           "start": "",
           "end": "",
           "img": "/img/uploads/welcome-little-one-.png",
@@ -21,11 +26,6 @@
           "img": "/img/uploads/welcome-little-one-1-.png",
           "link": "https://isensat-2409.netlify.app/google-chromecast---com-google-tv---4k---wi-fi---branco",
           "mobile_img": "/img/uploads/welcome-little-one-500-x-550-px-.png"
-        },
-        {
-          "start": "2024-02-24T01:37:11.187Z",
-          "end": "",
-          "img": "/img/uploads/welcome-little-one-2-.png"
         }
       ]
     },
