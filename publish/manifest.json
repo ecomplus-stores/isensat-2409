@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1e7ac9812e9c1cb4c21a988c88e837d3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.1023be7dac2ca1785aecc1508d939042.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.314bca708f412b1e664483bc7b84b281.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.34e91a55cce7c2e661607e2ca14e102b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6456f3d25235c89ca86e3f448ba301cd.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Isensat | Loja Oficial",
+  "short_name": "Isensat",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Explore nosso catálogo completo de acessórios essenciais para instaladores de antena. Na nossa loja virtual, você encontra tudo o que precisa, desde conectores de alta qualidade até ferramentas especializadas. Oferecemos soluções eficientes a preços competitivos, garantindo que você tenha à disposição os melhores recursos para cada instalação.",
+  "background_color": "#5f5f5f",
+  "theme_color": "#222831"
+}
